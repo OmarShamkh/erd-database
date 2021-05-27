@@ -1,5 +1,5 @@
-# DB-Project
-Simple Hotel Data base mangement system.
+# Simple Data Base
+Simple Hotel Data Base mangement system.
 
 ## Description:
 The details of Hotel is store into the Hotel tables respective with all tables
