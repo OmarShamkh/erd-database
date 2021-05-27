@@ -1,5 +1,5 @@
 # Simple Data Base
-Simple Hotel Data Base mangement system.
+Simple Hotel Data Base management system.
 
 ## Description:
 The details of Hotel is store into the Hotel tables respective with all tables
