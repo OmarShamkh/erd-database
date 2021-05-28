@@ -54,24 +54,24 @@ ALTER TABLE DEPENDENT
 ADD Mail  VARCHAR2(20) ;
 
 INSERT INTO CUSTOMER
-VALUES (15423 , ‘Mohamed’, ‘Ahmed’);
+VALUES (15423 , 'Mohamed', 'Ahmed');
 
 UPDATE ROOMS 
 SET RoomNumber = 21
 WHERE RoomID = 421;
 
 DELETE FROM PAYMENT 
-WHERE PayMethod = ‘Card’;
+WHERE PayMethod = 'Card';
 
 SELECT * FROM CUSTOMER 
 WHERE CSSN = 24532;
 
 SELECT PayTime 
 FROM PAYMENT 
-WHERE PayMethod = ‘Visa’ OR  PayMethod = ‘Cash’;
+WHERE PayMethod = 'Visa' OR  PayMethod = 'Cash';
 
 SELECT * FROM CUSTOMER 
-WHERE  CustFirstName  LIKE  ‘%ed’;
+WHERE  CustFirstName  LIKE  '%ed';
 
 SELECT * FROM ROOMS
 WHERE RoomNumber  BETWEEN 410 AND 420; 
