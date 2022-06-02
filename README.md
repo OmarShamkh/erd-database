@@ -1,5 +1,5 @@
-# Simple DataBase
-Simple Hotel DataBase management system.
+# Hotel System ERD
+Simple Hotel DataBase management system (ERD).
 
 ## Description:
 The details of Hotel is store into the Hotel tables respective with all tables
