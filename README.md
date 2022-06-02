@@ -1,5 +1,5 @@
 # Hotel System ERD
-Simple Hotel DataBase management system (ERD).
+Eductional Project for Simple Hotel DataBase management system and ERD.
 
 ## Description:
 The details of Hotel is store into the Hotel tables respective with all tables
